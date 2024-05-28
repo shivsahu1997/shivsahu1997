@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Shiv Sahu
 
-<!--
-**shivsahu1997/shivsahu1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | ReactJS ⚛️ | Redux ⚛️ | JavaScript | NextJS | NodeJs ###
+Welcome to my GitHub world! I'm Shiv Sahu, a seasoned Full Stack Developer with a passion for crafting robust web applications. With 3 years of hands-on experience, I'm skilled in ReactJs, Redux, JavaScript, NextJs and NodeJs.
 
-Here are some ideas to get you started:
+### 🔥 What I Do
+- 🚀 Transforming ideas into functional, user-friendly applications that leave an impact.
+- 🛠️ Building seamless user interfaces that combine functionality and aesthetics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Key Skills
+- 💡 ReactJs | Redux | Recoil | JavaScript
+- 💡 Material UI | Typescript | Next JS | NodeJs
+
+### 🌟 My Approach
+I believe in pushing boundaries and staying on top of tech trends. I'm a self-driven developer who excels at handling projects independently, delivering solutions that shine.
+
+### 🏆 Highlights
+- 🌐 Led development of diverse web applications that cater to specific client needs.
+- 💬 Effective communication and client collaboration are my strong suits.
+
+### Let's Connect!
+Explore my projects, contribute ideas, or collaborate on exciting ventures. If you're looking for a developer who's passionate, proactive, and ready to tackle challenges head-on, let's connect and make things happen!
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/shiv-sahu-9764bb19b/)
+- Connect with me on [Gmail](rajsahu744@gmail.com)
+
+Looking forward to our coding journey together! 🚀
