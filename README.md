@@ -22,6 +22,5 @@ I believe in pushing boundaries and staying on top of tech trends. I'm a self-dr
 Explore my projects, contribute ideas, or collaborate on exciting ventures. If you're looking for a developer who's passionate, proactive, and ready to tackle challenges head-on, let's connect and make things happen!
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/shiv-sahu-9764bb19b/)
-- Connect with me on [Gmail](rajsahu744@gmail.com)
 
 Looking forward to our coding journey together! 🚀
