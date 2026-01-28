@@ -67,18 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivsahu1997&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivsahu1997" />
-</p>
-
----
-
 ## 📫 Connect With Me  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shiv-sahu-9764bb19b/  
