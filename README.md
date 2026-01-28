@@ -1,26 +1,92 @@
-## Hi there 👋 I'm Shiv Sahu
+<h1 align="center">Hi 👋, I'm Shiv Sahu</h1>
+<h3 align="center">Frontend / Full Stack Developer | React ⚛️ | Next.js | Redux | Node.js</h3>
 
-### Full Stack Developer | ReactJS ⚛️ | Redux ⚛️ | JavaScript | NextJS | NodeJs ###
-Welcome to my GitHub world! I'm Shiv Sahu, a seasoned Full Stack Developer with a passion for crafting robust web applications. With 3 years of hands-on experience, I'm skilled in ReactJs, Redux, JavaScript, NextJs and NodeJs.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiv-sahu-9764bb19b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:shivsahumi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://github.com/shivsahu1997">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
+  </a>
+</p>
 
-### 🔥 What I Do
-- 🚀 Transforming ideas into functional, user-friendly applications that leave an impact.
-- 🛠️ Building seamless user interfaces that combine functionality and aesthetics.
+---
 
-### 💼 Key Skills
-- 💡 ReactJs | Redux | Recoil | JavaScript
-- 💡 Material UI | Typescript | Next JS | NodeJs
+## 👨‍💻 About Me  
 
-### 🌟 My Approach
-I believe in pushing boundaries and staying on top of tech trends. I'm a self-driven developer who excels at handling projects independently, delivering solutions that shine.
+🚀 Frontend / Full Stack Developer with **4+ years of experience** in building scalable and high-performance web applications using **ReactJS, NextJS, Redux, NodeJS, and JavaScript**.  
 
-### 🏆 Highlights
-- 🌐 Led development of diverse web applications that cater to specific client needs.
-- 💬 Effective communication and client collaboration are my strong suits.
+💼 Currently working with **international clients (Australia)** on CRM and SaaS platforms.  
 
-### Let's Connect!
-Explore my projects, contribute ideas, or collaborate on exciting ventures. If you're looking for a developer who's passionate, proactive, and ready to tackle challenges head-on, let's connect and make things happen!
+⚡ Passionate about **clean UI, performance optimization, and building real-world products**.
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/shiv-sahu-9764bb19b/)
+---
 
-Looking forward to our coding journey together! 🚀
+## 🔥 What I Do  
+
+- ⚛️ Build modern React & Next.js applications  
+- 🚀 Optimize performance with memoization & lazy loading  
+- 🔗 Integrate REST APIs & third-party services  
+- 🎨 Create clean, responsive UI/UX  
+- 🧠 Solve real business problems with code  
+
+---
+
+## 🛠️ Tech Stack  
+
+### Frontend  
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Next.js](https://img.shields.io/badge/Next-black?logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-purple?logo=redux)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+
+### Backend & Tools  
+![Node.js](https://img.shields.io/badge/Node-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 **Handy Broker CRM** – Finance SaaS Platform  
+🔹 **Bloomster** – Scalable React Web App  
+🔹 **Zuperscore** – SAT Learning Platform  
+🔹 **IndiCRM** – Privacy Focused CRM  
+
+*(More coming soon 🚧)*
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivsahu1997&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivsahu1997" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shiv-sahu-9764bb19b/  
+- 📧 Email: shivsahumi@gmail.com  
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
+
+🚀 Let’s build something amazing together.
+
